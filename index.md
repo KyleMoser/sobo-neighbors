@@ -9,3 +9,5 @@ This page is for the Facebook App sobo-neighbors. The app is a purely server sid
 
 ### Support or Contact
 southbaltimoreapps@gmail.com
+
+<a href="/privacy.pdf">sobo-neighbors app privacy policy</a>
